@@ -4,15 +4,8 @@
         <description><![CDATA[HAO]]></description>
         <link>https://thegrid.ai/hao/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Mar 2016 22:32:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2016 22:32:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/hao/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[NOW ON SALE: Salamalekoum HAO MOROCCO]]></title>
-            <description><![CDATA[<article><h1>NOW ON SALE: Salamalekoum HAO MOROCCO</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c18e3c527f65b48810aa4b0a3a9a382eb79d6fbd.jpg"></article>]]></description>
-            <link>https://thegrid.ai/hao/now-on-sale-salamalekoum-hao-morocco/index.html</link>
-            <guid isPermaLink="false">b4a1e844-3869-4e4e-887d-c6e5fa25b6b2</guid>
-            <pubDate>Mon, 28 Mar 2016 22:32:11 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>HAO living means we believe in travel, culture, communication, love and kraft. 
@@ -20,7 +13,14 @@
 On HAO showrooms you will find creations made by local artists we meet while traveling around the world and HAO Jewels, created from white quartz by @blanca_kratf.</p>]]></description>
             <link>https://thegrid.ai/hao/hao-living-means-we-believe-in-travel-culture-communicatio/index.html</link>
             <guid isPermaLink="false">1f19d2b5-969d-48cf-8e53-0f23d2d49e3c</guid>
-            <pubDate>Mon, 28 Mar 2016 21:18:16 GMT</pubDate>
+            <pubDate>Mon, 28 Mar 2016 22:32:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NOW ON SALE: Salamalekoum HAO MOROCCO]]></title>
+            <description><![CDATA[<article><h1>NOW ON SALE: Salamalekoum HAO MOROCCO</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c18e3c527f65b48810aa4b0a3a9a382eb79d6fbd.jpg"></article>]]></description>
+            <link>https://thegrid.ai/hao/now-on-sale-salamalekoum-hao-morocco/index.html</link>
+            <guid isPermaLink="false">b4a1e844-3869-4e4e-887d-c6e5fa25b6b2</guid>
+            <pubDate>Mon, 28 Mar 2016 22:32:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
