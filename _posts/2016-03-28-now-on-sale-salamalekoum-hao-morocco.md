@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-28T22:29:35.452Z'
-dateModified: '2016-03-28T22:26:59.614Z'
+datePublished: '2016-03-28T22:32:11.333Z'
+dateModified: '2016-03-28T22:29:45.252Z'
 title: 'NOW ON SALE: Salamalekoum HAO MOROCCO'
 author: []
 sourcePath: _posts/2016-03-28-now-on-sale-salamalekoum-hao-morocco.md
