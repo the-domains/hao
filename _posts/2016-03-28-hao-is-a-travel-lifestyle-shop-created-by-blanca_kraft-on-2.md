@@ -1,28 +1,25 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
-starred: true
+starred: false
 keywords: []
-description: HAO is a travel lifestyle shop created by @blanca_kraft on 2016.
-datePublished: '2016-03-28T21:13:01.929Z'
-dateModified: '2016-03-28T20:56:04.918Z'
-title: HAO is a travel lifestyle shop created by @blanca_kraft on 2016
-author: []
+description: ''
+datePublished: '2016-03-28T22:03:32.910Z'
+dateModified: '2016-03-28T22:03:32.312Z'
+title: HAO is a travel lifestyle shop created by @blanca_kraft on 2016.
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
+author: []
 sourcePath: _posts/2016-03-28-hao-is-a-travel-lifestyle-shop-created-by-blanca_kraft-on-2.md
 published: true
-url: hao-is-a-travel-lifestyle-shop-created-by-blanca_kraft-on-2/index.html
-_type: Article
+_type: Blurb
 
 ---
-HAO is a travel lifestyle shop created by @blanca\_kraft on 2016\.
-
-HAO living means we believe in travel, culture, communication, love and kraft. 
-On HAO showrooms you will find creations made by local artists we meet while traveling around the world and HAO Jewels, created from white quartz by @blanca\_kratf.
+# HAO is a travel lifestyle shop created by @blanca\_kraft on 2016\.
