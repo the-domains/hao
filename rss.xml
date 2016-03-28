@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[HAO ]]></title>
         <description><![CDATA[HAO ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/hao/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Mar 2016 20:55:25 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 28 Mar 2016 21:13:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/hao/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[HAO is a travel lifestyle shop created by @blanca_kraft on 2016]]></title>
             <description><![CDATA[<article><h1>HAO is a travel lifestyle shop created by @blanca_kraft on 2016</h1><p>HAO is a travel lifestyle shop created by @blanca_kraft on 2016.</p></article>]]></description>
-            <link>undefinedhao-is-a-travel-lifestyle-shop-created-by-blanca_kraft-on-2/index.html</link>
+            <link>https://thegrid.ai/hao/hao-is-a-travel-lifestyle-shop-created-by-blanca_kraft-on-2/index.html</link>
             <guid isPermaLink="false">3834ed99-b85a-4c94-b9f2-feccc3856ad4</guid>
-            <pubDate>Mon, 28 Mar 2016 20:55:25 GMT</pubDate>
+            <pubDate>Mon, 28 Mar 2016 21:13:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
