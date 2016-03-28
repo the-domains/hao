@@ -1,0 +1,28 @@
+name: HAO
+favicon: null
+layout_spectrum: 0.11041308240965009
+typography_spectrum: 0.7440005429089069
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.134675198700279
+  lightness: 0.37821332761086524
+  saturation: 0.0614076410420239
+  rhythmicContrast: 0.17070967401377857
+purpose: []
