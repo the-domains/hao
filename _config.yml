@@ -2,6 +2,7 @@ name: HAO
 favicon: null
 layout_spectrum: 0.11041308240965009
 typography_spectrum: 0.7440005429089069
+title: 'HAO '
 cta:
   domain: null
   bucket: null
