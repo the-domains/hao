@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: HAO is a travel lifestyle shop created by @blanca_kraft on 2016.
-datePublished: '2016-03-28T20:55:25.382Z'
-dateModified: '2016-03-28T20:51:03.960Z'
+datePublished: '2016-03-28T21:13:01.929Z'
+dateModified: '2016-03-28T20:56:04.918Z'
 title: HAO is a travel lifestyle shop created by @blanca_kraft on 2016
 author: []
 authors: []
