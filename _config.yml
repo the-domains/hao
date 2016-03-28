@@ -1,7 +1,7 @@
 name: HAO
 favicon: null
-layout_spectrum: 0.11041308240965009
-typography_spectrum: 0.7440005429089069
+layout_spectrum: 0
+typography_spectrum: 0
 title: 'HAO '
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.134675198700279
-  lightness: 0.37821332761086524
-  saturation: 0.0614076410420239
-  rhythmicContrast: 0.17070967401377857
+    - '#312726'
+    - '#82c1f4'
+    - '#bd6528'
+    - '#7e563c'
+    - '#95908d'
+  brandStrength: 0
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 0.75
 purpose: []
