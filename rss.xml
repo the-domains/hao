@@ -4,7 +4,7 @@
         <description><![CDATA[HAO]]></description>
         <link>https://thegrid.ai/hao/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Mar 2016 22:19:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2016 22:23:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/hao/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -14,6 +14,13 @@ On HAO showrooms you will find creations made by local artists we meet while tra
             <link>https://thegrid.ai/hao/hao-living-means-we-believe-in-travel-culture-communicatio/index.html</link>
             <guid isPermaLink="false">1f19d2b5-969d-48cf-8e53-0f23d2d49e3c</guid>
             <pubDate>Mon, 28 Mar 2016 22:32:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e82d0fe6-67a9-4c7e-a48d-0c10862731b6.gif">]]></description>
+            <link>https://thegrid.ai/hao/7a0c3a0b-9454-476c-b397-ead72e4a4152/index.html</link>
+            <guid isPermaLink="false">7a0c3a0b-9454-476c-b397-ead72e4a4152</guid>
+            <pubDate>Tue, 29 Mar 2016 22:22:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
