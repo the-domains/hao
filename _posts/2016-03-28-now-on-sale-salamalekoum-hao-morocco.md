@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-28T22:32:11.333Z'
-dateModified: '2016-03-28T22:29:45.252Z'
+datePublished: '2016-03-29T21:07:00.475Z'
+dateModified: '2016-03-29T20:56:13.086Z'
 title: 'NOW ON SALE: Salamalekoum HAO MOROCCO'
 author: []
 sourcePath: _posts/2016-03-28-now-on-sale-salamalekoum-hao-morocco.md
